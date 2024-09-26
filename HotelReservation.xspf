@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///C:/CodeAlpha%20Internship%20Projects/Task%20videos/HotelReservation.java%20-%20Number%20-%20Visual%20Studio%20Code%202024-09-25%2011-14-37.mp4</location>
+			<title>HotelReservation.java - Number - Visual Studio Code</title>
+			<creator>Microsoft Game DVR</creator>
+			<duration>69418</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+	</extension>
+</playlist>
